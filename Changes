@@ -1,0 +1,13 @@
+Revision history for Perl extension CLIP::Pkg::QA
+
+1.0.2  Wed Aug 07 2013
+	- exprort clippkg_get_fuzzy_deplist() and clippkg_get_fuzzy_deps(), 
+	  needed by clip-checkorphans
+
+1.0.1  Wed Jun 08 2011
+	- when checking paths or depends, do not stop at first error, display
+	  all errors for the given package
+
+1.0.0  Wed Jun 08 2011
+	- first version.
+

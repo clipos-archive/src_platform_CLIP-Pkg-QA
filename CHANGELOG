@@ -1,0 +1,26 @@
+# CLIP ChangeLog for dev-perl/CLIP-Pkg-QA
+
+*CLIP-Pkg-QA-1.0.2-r1 (20 Dec 2013)
+
+  20 Dec 2013; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Pkg-QA-1.0.2-r1.ebuild, -CLIP-Pkg-QA-1.0.2.ebuild:
+  Force rebuild.
+
+*CLIP-Pkg-QA-1.0.2 (07 Aug 2013)
+
+  07 Aug 2013; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Pkg-QA-1.0.2.ebuild, -CLIP-Pkg-QA-1.0.1.ebuild:
+  Export clippkg_get_fuzzy_deplist() for clip-checkorphans.
+
+*CLIP-Pkg-QA-1.0.1 (08 Jun 2011)
+
+  08 Jun 2011; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Pkg-QA-1.0.1.ebuild, -CLIP-Pkg-QA-1.0.0.ebuild:
+  Be more verbose on error reporting - do not stop at first error.
+
+*CLIP-Pkg-QA-1.0.0 (08 Jun 2011)
+
+  08 Jun 2011; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Pkg-QA-1.0.0.ebuild
+  Initial import.
+
